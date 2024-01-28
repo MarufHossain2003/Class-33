@@ -1,0 +1,23 @@
+
+DOM  =  Document Objet Model
+
+BOM  =  Browser Object Model
+
+======   DOM   ======
+
+DOM Manipulaion => Object (Creat Read Update Delate) => CRUD
+
+
+
+creat element with Js
+
+<section>
+    ==== create here any element ====
+    <span>Span Tag</span>
+
+    ==== create here any element ====
+    <h2>Heading Two Tag.</h2>
+
+    ==== create here any element ====
+
+</section>
